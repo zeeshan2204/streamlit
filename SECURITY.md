@@ -8,4 +8,4 @@
 
 </br>
 
-Please refer to the Snowflake [HackerOne program](https://hackerone.com/snowflake?type=team) for our security policies and for reporting any security vulnerabilities.
+Please refer to the Snowflake [HackerOne program](https://hackerone.com/snowflake?type=team) to review our security policies and report any security vulnerabilities.
